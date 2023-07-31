@@ -1,0 +1,15 @@
+C:\Development\Visual Studio\Calculatrix\Calculatrix\bin\Debug\Calculatrix.exe.config
+C:\Development\Visual Studio\Calculatrix\Calculatrix\bin\Debug\Calculatrix.exe
+C:\Development\Visual Studio\Calculatrix\Calculatrix\bin\Debug\Calculatrix.pdb
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\MainWindow.g.cs
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\App.g.cs
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix_MarkupCompile.cache
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\MainWindow.baml
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix.g.resources
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix.Properties.Resources.resources
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix.csproj.GenerateResource.cache
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix.csproj.CoreCompileInputs.cache
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix.exe
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix.pdb
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix_MarkupCompile.lref
+C:\Development\Visual Studio\Calculatrix\Calculatrix\obj\Debug\Calculatrix.csproj.AssemblyReference.cache
